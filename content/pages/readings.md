@@ -18,39 +18,446 @@ Bailey, James E., and David F. Ollis. _Biochemical Engineering Fundamentals._ Ne
 
 Rozzell, J. D. "Commercial scale biocatalysis: myths and realities." _Bioorg Med Chem_ 7, no. 10 (October 1999): 2253-61.
 
-| SES # | TOPICS | READINGS |
-| 1 | Course Overview, Enzyme Classification | S&K. Chapter 1. |
-| 2 | Enzyme Kinetics (Single-substrate Reactions), Measurement | S&K. Chapter 3.1-3.3.3. |
-| 3 | Enzyme Inhibition | S&K. Chapter 3.3.4. |
-| 4 | Enzyme Inhibition, pH and Temp Effects | S&K. Chapter 3.3.5. |
-| 5 | Non-ideal Enzyme Kinetics | Class notes |
-| 6 | Immobilized Enzyme Kinetics - External | S&K. Chapter 3.4. |
-| 7 | Immobilized Enzyme Kinetics - Internal | S&K. Chapter 3.4. |
-| 8 | Applications of Enzyme Catalysis (Biocatalysis) | S&K. Chapter 3.5, 3.6.  {{< br >}}  {{< br >}}Handouts |
-| 9 | Microbial Growth | S&K. Chapter 6.1-6.2. |
-| 10 | Microbial Growth - Batch Cultivation Profiles | S&K. Chapter 6.1-6.2. |
-| 11 | Stoichiometry of Growth, Product Formation | S&K. Chapter 7. |
-| 12 | Stoichiometry of Growth, Product Formation (cont.) | S&K. Chapter 7. |
-| 13 | Models of Microbial Growth | S&K. Chapter 6.3. |
-| 14 | Models of Microbial Growth (cont.) | S&K. Chapter 6.3. |
-| 15 | Continuous Culture | S&K. Chapter 6.4. |
-| 16 | Continuous Culture (cont.) | S&K. Chapter 6.4. |
-| 17 | Bioreactor Design | S&K. Chapter 9.1-9.3. |
-| 18 | Bioreactor Design (cont.) | S&K. Chapter 9.1-9.3. |
-| 19 | Bioreactor Design (cont.) |  |
-| 20 | Mass Transfer | S&K. Chapter 6.2.3-6.2.4, 10.2.3. |
-| 21 | Mass Transfer (cont.) | S&K. Chapter 6.2.3-6.2.4, 10.2.3. |
-| 22 | Heat Transfer, Media and Air Sterilization | S&K. Chapter 10.4. |
-| 23 | Scale-up | S&K. Chapter 10.2.4. |
-| 24 | Scale-down | S&K. Chapter 10.2.5. |
-| 25 | Animal Cell Culture | S&K. Chapter 12. |
-| 26 | Animal Cell Culture (cont.) | S&K. Chapter 12. |
-| 27 | Mixed Cultures | S&K. Chapter 16. |
-| 28 | Mixed Cultures (cont.) | S&K. Chapter 16. |
-| 29 | Medium Development | Handouts |
-| 30 | Medium Development (cont.) | Handouts |
-| 31 | Cellular Engineering - An Engineer's View Towards Recombinant Organisms | S&K. Chapter 14.  {{< br >}}  {{< br >}}Handouts |
-| 32 | Cellular Engineering/Molecular Biology for Process Engineering | S&K. Chapter 14.  {{< br >}}  {{< br >}}Handouts |
-| 33 | Cellular Engineering/Molecular Biology for Process Engineering (cont.) | S&K. Chapter 14.  {{< br >}}  {{< br >}}Handouts |
-| 34 | Enzyme Engineering for Process Improvement | Handouts |
-| 35 | Enzyme Engineering for Process Improvement (cont.) | Handouts
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview, Enzyme Classification
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme Kinetics (Single-substrate Reactions), Measurement
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 3.1-3.3.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme Inhibition
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 3.3.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme Inhibition, pH and Temp Effects
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 3.3.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Non-ideal Enzyme Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Class notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Immobilized Enzyme Kinetics - External
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 3.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Immobilized Enzyme Kinetics - Internal
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 3.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of Enzyme Catalysis (Biocatalysis)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 3.5, 3.6.  
+  
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Microbial Growth
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.1-6.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Microbial Growth - Batch Cultivation Profiles
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.1-6.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stoichiometry of Growth, Product Formation
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stoichiometry of Growth, Product Formation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Models of Microbial Growth
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Models of Microbial Growth (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous Culture
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous Culture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Bioreactor Design
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 9.1-9.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Bioreactor Design (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 9.1-9.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Bioreactor Design (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Transfer
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.2.3-6.2.4, 10.2.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Transfer (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 6.2.3-6.2.4, 10.2.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Heat Transfer, Media and Air Sterilization
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 10.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Scale-up
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 10.2.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Scale-down
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 10.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Animal Cell Culture
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Animal Cell Culture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Mixed Cultures
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Mixed Cultures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Medium Development
+{{< tdclose >}}
+{{< tdopen >}}
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Medium Development (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Cellular Engineering - An Engineer's View Towards Recombinant Organisms
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 14.  
+  
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Cellular Engineering/Molecular Biology for Process Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 14.  
+  
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Cellular Engineering/Molecular Biology for Process Engineering (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+S&K. Chapter 14.  
+  
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme Engineering for Process Improvement
+{{< tdclose >}}
+{{< tdopen >}}
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme Engineering for Process Improvement (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

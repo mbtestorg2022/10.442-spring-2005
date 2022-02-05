@@ -25,8 +25,45 @@ Grading
 
 Students are encouraged to work with classmates outside of lecture periods and discuss the course and course assignments; however, **final solutions to homework problems are to be prepared on an individual basis**. The penalty for cheating will be a "zero" grade for all parties involved.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Four In-class Quizzes | 80% |
-| Problem Sets | 15% |
-| Class Participation | 5%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four In-class Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
