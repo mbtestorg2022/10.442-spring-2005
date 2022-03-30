@@ -5,6 +5,7 @@ description: Problems on concentration of enzymes and RNA involved in cell synth
   model.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-442-biochemical-engineering-spring-2005/cdc836c9a8b30cb4739db568acc866e8_practice_ps_qz_2.pdf
 file_type: application/pdf
+parent_uid: 893bf2b1-64d6-8b74-d09f-1a7cf6f8636a
 resourcetype: Document
 title: practice_ps_qz_2.pdf
 uid: cdc836c9-a8b3-0cb4-739d-b568acc866e8
